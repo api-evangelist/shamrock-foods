@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Shamrock Foods is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://shamrockfoods.com/
+Shamrock Foods Company is a family‑owned and operated foodservice distributor founded in 1922. It supplies a broad range of grocery, dairy, frozen, and specialty products to restaurants, schools, and institutions across the United States, emphasizing quality, service, and local community support. The company operates a modern logistics network and maintains a strong commitment to sustainability and customer satisfaction.
+
+**Areas:** Company · Foodservice · Distributor · Dairy · Logistics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shamrockfoods.com/)
+- [Privacy policy](https://www.shamrockfoodservice.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/shamrock-foods/](https://apis.io/providers/shamrock-foods/).
